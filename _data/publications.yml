@@ -1,5 +1,11 @@
 main:
 
+  - title: Real-Time Editing of Path-Traced Scenes with Prioritized Re-Rendering
+    authors: Annalena Ulschmid, <strong>Bernhard Kerbl</strong>, Katharina Krösl, Michael Wimmer
+    conference_short: GRAPP
+    conference: International Conference on Computer Graphics Theory and Applications, 2024.
+    image: ./assets/img/incremental.png
+
   - title: GPU-Accelerated LOD Generation for Point Clouds
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Philip Klaus, Michael Wimmer
     conference_short: PACMCGIT
