@@ -296,7 +296,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  /*width:960px;*/
+  max-width: 80%;
   margin:0 auto;
 }
 
