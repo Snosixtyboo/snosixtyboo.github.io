@@ -4,6 +4,7 @@ main:
     authors: Annalena Ulschmid, <strong>Bernhard Kerbl</strong>, Katharina Krösl, Michael Wimmer
     conference_short: GRAPP
     conference: International Conference on Computer Graphics Theory and Applications, 2024.
+    notes: 🏆 Best Student Paper Award
     image: ./assets/img/incremental.png
 
   - title: GPU-Accelerated LOD Generation for Point Clouds
