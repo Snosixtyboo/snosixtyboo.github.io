@@ -14,6 +14,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>SIGGRAPH</li>
   <li>Eurographics (EG)</li>
   <li>Pacific Graphics (PG)</li>
   <li>High-Performance Graphics (HPG)</li>
@@ -25,6 +26,8 @@
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
 
 <ul style="margin:0 0 20px;">
+  <li>Transactions on Graphics (TOG)</li>
+  <li>IEEE Sensors</li>
   <li>Computer Graphics Forum (CGF)</li>
   <li>Computers and Graphics (CG)</li>
   <li>Computer-Aided Design (CAD)</li>  
