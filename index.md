@@ -13,6 +13,7 @@ Together with my esteemed colleagues, our research has been honored with Best Pa
 - **Computer Graphics:** real-time rendering, image synthesis, point-based graphics
 - **Parallel Processing:** parallel algorithms and data structures, GPU architectures
 - **Image-Based Rendering:** novel-view synthesis, radiance fields, differentiable rendering 
+- **Machine Learning:** optimization, generative models
 
 ## News
 
