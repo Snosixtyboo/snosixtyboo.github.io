@@ -9,7 +9,7 @@ main:
 
   - title: GPU-Accelerated LOD Generation for Point Clouds
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Philip Klaus, Michael Wimmer
-    conference_short: PACMCGIT
+    conference_short: CGF
     conference: High-Performance Graphics, 2023.
     image: ./assets/img/lod.png
 
