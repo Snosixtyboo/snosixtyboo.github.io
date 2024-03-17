@@ -1,12 +1,12 @@
 ## Tutorials and Invited Talks
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 20px;">
   <li>Teaching Vulkan, SIGGRAPH ’23, Birds of a Feather Talk, Vulkan: Forging Ahead.</li>
-  <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited Talk.</li>
-  <li>🏆 Transitioning to Vulkan for Compute, Vulkanised ’23, Invited Talk.</li>
+  <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited.</li>
+  <li>🏆 Transitioning to Vulkan for Compute, Vulkanised ’23, Invited.</li>
   <li>CUDA and Applications to Task-based Programming, Eurographics ’22, Tutorial.</li>
-  <li>Detailed Geometry for Cloud and Edge Real-Time Rendering, Cloud InnovWave ’21, Invited Talk.</li>
-  <li>🏆 Priority-Based Task Management in a GPGPU Megakernel, CESCG ’12, Student Project Presentation.</li>
+  <li>Detailed Geometry for Cloud and Edge Real-Time Rendering, Cloud InnovWave ’21, Invited.</li>
+  <li>🏆 Priority-Based Task Management in a GPGPU Megakernel, CESCG ’12, Student Project.</li>
 </ul>
 
 ## Services
@@ -25,7 +25,7 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li>Transactions on Graphics (TOG)</li>
   <li>IEEE Sensors</li>
   <li>Computer Graphics Forum (CGF)</li>

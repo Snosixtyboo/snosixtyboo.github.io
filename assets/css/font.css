@@ -9,3 +9,22 @@ body {
   font-weight:400;
   margin:0
 }
+
+#video-gallery {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+}
+
+.video {
+    flex: 0 0 auto;
+    width: 300px; /* Adjust based on your preference */
+    margin-right: 20px;
+    scroll-snap-align: start;
+}
+
+.video iframe {
+    width: 100%;
+    height: 169px; /* 16:9 aspect ratio for 300px width */
+}

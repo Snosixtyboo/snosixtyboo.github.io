@@ -8,6 +8,8 @@ I am a Principal Investigator at the **Vienna University of Technology (TU Wien)
 
 Together with my esteemed colleagues, our research has been honored with Best Paper awards at major graphics conferences, including **SIGGRAPH**, **High-Performance Graphics** and **GRAPP**.
 
+I have lectured on the topics of GPU programming, real-time rendering and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**
+
 ## Research Interests
 
 - **Computer Graphics:** real-time rendering, image synthesis, point-based graphics
