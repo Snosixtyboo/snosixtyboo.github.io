@@ -29,6 +29,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>Transactions on Graphics (TOG)</li>
+  <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
   <li>IEEE Sensors</li>
   <li>Computer Graphics Forum (CGF)</li>
   <li>Computers and Graphics (CG)</li>
