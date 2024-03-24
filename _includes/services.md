@@ -1,6 +1,8 @@
 ## Tutorials and Invited Talks
 
 <ul style="margin:0 0 20px;">
+  <li>3D Gaussian Splatting, 3DV '24, Tutorial</li>
+  <li>Compute-based Rendering Across the Board, NCBR Ideas / MPII et al., Invited</li>
   <li>Teaching Vulkan, SIGGRAPH ’23, Birds of a Feather Talk, Vulkan: Forging Ahead.</li>
   <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited.</li>
   <li>🏆 Transitioning to Vulkan for Compute, Vulkanised ’23, Invited.</li>
