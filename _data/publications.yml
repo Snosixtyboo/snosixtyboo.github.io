@@ -3,7 +3,7 @@ main:
   - title: Reducing the Memory Footprint of 3D Gaussian Splatting
     authors: Panagiotis Papantonakis, Georgios Kopanas, <strong>Bernhard Kerbl</strong>, Alexandre Lanvin, George Drettakis
     conference_short: PACMCGIT
-    conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2023.
+    conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2024.
     image: ./assets/img/comp.png
 
   - title: Real-Time Editing of Path-Traced Scenes with Prioritized Re-Rendering
