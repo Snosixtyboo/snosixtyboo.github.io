@@ -4,6 +4,8 @@ layout: homepage
 
 ## About Me
 
+I am currently looking for faculty openings!
+
 I am a Visiting Researcher at the **Robotics Institute, Carnegie Mellon University**, in the Human Sensing Lab. I am also a Co-Principal Investigator associated with the **Vienna University of Technology (TU Wien)** for the project on Instant Visualization and Interaction for Large Point Clouds. My research focuses on real-time graphics, parallel processing, point-based rendering, image-based rendering, radiance fields and novel-view synthesis. I obtained my PhD at **Graz University of Technology** in 2018. In 2019, I briefly joined Epic Games to work on **Unreal Engine 5's Nanite**. I started a postdoc at TU Wien the same year, followed by another in 2022 with **INRIA** in George Drettakis' GraphDeco group. 
 
 Together with my esteemed colleagues, our research has been honored with Best Paper awards at major graphics conferences, including **SIGGRAPH**, **High-Performance Graphics** and **GRAPP**.
