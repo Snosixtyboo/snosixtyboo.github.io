@@ -10,18 +10,14 @@ Together with my esteemed colleagues, our research has been honored with Best Pa
 
 I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**
 
+## News
+
+- **[Apr. 2024]** 1 paper accepted to I3D '24
+- **[Apr. 2024]** Joined Carnegie Mellon University as Visiting Researcher
+
 ## Research Interests
 
 - **Computer Graphics:** real-time rendering, image synthesis, point-based graphics
 - **Parallel Processing:** parallel algorithms and data structures, GPU architectures
 - **Image-Based Rendering:** novel-view synthesis, radiance fields, differentiable rendering 
 - **Machine Learning:** optimization, generative models
-
-## News
-
-- **[Apr. 2024]** Joined Carnegie Mellon University as Visiting Researcher
-- **[Aug. 2023]** This page has first gone online!
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

@@ -94,64 +94,20 @@
 
       </header>
       <section>
+	  	  <div class="navigation">
+	  <a href="/index" class="nav-link" style="margin-right: 20px;">Home</a>
+	  <a href="/publications" class="nav-link" style="margin-right: 20px;">Publications</a>
+	  <a href="/lectures" class="nav-link" style="margin-right: 20px;">Lectures</a>
+	  <a href="/services" class="nav-link" style="margin-right: 20px;">Services</a>
+	  <!-- Add more links as needed -->
+	</div>
+	<br>
 
       {{ content }}
 
       <br>
-	
-	<h2>Lecture Recordings</h2>
-	
-	<div id="video-gallery">
-		<div class="video">
-        <iframe src="https://www.youtube.com/embed/Om5-ka_mTeE" frameborder="0" allowfullscreen></iframe>
-    </div>
-	<div class="video">
-        <iframe src="https://www.youtube.com/embed/X5KrYh7xcHk" frameborder="0" allowfullscreen></iframe>
-    </div>
-		    <div class="video">
-        <iframe src="https://www.youtube.com/embed/6kT7vVHCZIc" frameborder="0" allowfullscreen></iframe>
-    </div>
-	    <div class="video">
-        <iframe src="https://www.youtube.com/embed/mrDWmnXC5Ck" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="video">
-        <iframe src="https://www.youtube.com/embed/57AcnwW4pxw" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="video">
-        <iframe src="https://www.youtube.com/embed/w36xgaGQYAY" frameborder="0" allowfullscreen></iframe>
-    </div>
-	<div class="video">
-        <iframe src="https://www.youtube.com/embed/c6NvZ74LAhE" frameborder="0" allowfullscreen></iframe>
-    </div>
-	<div class="video">
-        <iframe src="https://www.youtube.com/embed/dWsez3ztTOM" frameborder="0" allowfullscreen></iframe>
-    </div>
-		<div class="video">
-        <iframe src="https://www.youtube.com/embed/FU1dbi827LY" frameborder="0" allowfullscreen></iframe>
-    </div>
-		<div class="video">
-        <iframe src="https://www.youtube.com/embed/sg2xdcB8M3c" frameborder="0" allowfullscreen></iframe>
-    </div>
-			<div class="video">
-        <iframe src="https://www.youtube.com/embed/0Fv0jDZUyE4" frameborder="0" allowfullscreen></iframe>
-    </div>
-	<div class="video">
-        <iframe src="https://www.youtube.com/embed/nD83r06b5NE" frameborder="0" allowfullscreen></iframe>
-    </div>
-		<div class="video">
-        <iframe src="https://www.youtube.com/embed/S-0iqNzohCQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <!-- Add more videos as needed -->
-	</div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('video-gallery').addEventListener('wheel', function(e) {
-        if (e.deltaY == 0) return;
-        this.scrollLeft += (e.deltaY < 0 ? -1 : 1) * 30;
-        e.preventDefault();
-    });
-});
-</script>
+
+
 	<br>
 	
       {% if site.enable_footnote %}
