@@ -22,6 +22,7 @@ layout: homepage
   <li>Transactions on Graphics (TOG)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
   <li>IEEE Sensors</li>
+  <li>Mathematics</li>
   <li>Computer Graphics Forum (CGF)</li>
   <li>Computers and Graphics (CG)</li>
   <li>Computer-Aided Design (CAD)</li>  
