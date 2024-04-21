@@ -10,7 +10,7 @@ I am a Visiting Researcher at the **Robotics Institute, Carnegie Mellon Universi
 
 Together with my esteemed colleagues, our research has been honored with Best Paper awards at major graphics conferences, including **SIGGRAPH**, **High-Performance Graphics** and **GRAPP**.
 
-I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**
+I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**.
 
 ## News
 

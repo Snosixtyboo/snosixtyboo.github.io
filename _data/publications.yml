@@ -1,4 +1,9 @@
 main:
+  - title: Fast Rendering of Parametric Objects on Modern GPUs
+    authors: Johannes Unterguggenberger, Lukas Lipp, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Markus Schütz
+    conference_short: EGPGV
+    conference: Eurographics Symposium on Parallel Graphics and Visualization, 2024.
+    image: ./assets/img/parametric.png
 
   - title: Reducing the Memory Footprint of 3D Gaussian Splatting
     authors: Panagiotis Papantonakis, Georgios Kopanas, <strong>Bernhard Kerbl</strong>, Alexandre Lanvin, George Drettakis
