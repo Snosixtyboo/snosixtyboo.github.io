@@ -14,6 +14,7 @@ I have lectured on the topics of GPU programming, real-time rendering, physicall
 
 ## News
 
+- **[Apr. 2024]** 2 papers accepted to SIGGRAPH '24
 - **[Apr. 2024]** 1 paper accepted to I3D '24
 - **[Apr. 2024]** Joined Carnegie Mellon University as Visiting Researcher
 
