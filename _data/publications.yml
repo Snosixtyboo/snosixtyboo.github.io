@@ -1,4 +1,10 @@
 main:
+  - title: A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets
+    authors: <strong>Bernhard Kerbl</strong>*, Andreas Meuleman, Georgios Kopanas, Alexandre Lanvin, Michael Wimmer, George Drettakis
+    conference_short: ACM TOG
+    conference: SIGGRAPH, 2024.
+    image: ./assets/img/hierarchy.jpg
+
   - title: Fast Rendering of Parametric Objects on Modern GPUs
     authors: Johannes Unterguggenberger, Lukas Lipp, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Markus Schütz
     conference_short: EGPGV
