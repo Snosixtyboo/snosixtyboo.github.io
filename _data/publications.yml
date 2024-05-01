@@ -1,6 +1,6 @@
 main:
   - title: A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets
-    authors: <strong>Bernhard Kerbl</strong>*, Andreas Meuleman, Georgios Kopanas, Alexandre Lanvin, Michael Wimmer, George Drettakis
+    authors: <strong>Bernhard Kerbl</strong>*, Andreas Meuleman*, Georgios Kopanas, Alexandre Lanvin, Michael Wimmer, George Drettakis
     conference_short: ACM TOG
     conference: SIGGRAPH, 2024.
     image: ./assets/img/hierarchy.png
