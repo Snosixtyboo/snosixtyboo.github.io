@@ -3,7 +3,7 @@ main:
     authors: <strong>Bernhard Kerbl</strong>*, Andreas Meuleman*, Georgios Kopanas, Alexandre Lanvin, Michael Wimmer, George Drettakis
     conference_short: ACM TOG
     conference: SIGGRAPH, 2024.
-    image: ./assets/img/hierarchy2.png
+    image: ./assets/img/hierarchy.gif
 
   - title: Fast Rendering of Parametric Objects on Modern GPUs
     authors: Johannes Unterguggenberger, Lukas Lipp, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Markus Schütz
