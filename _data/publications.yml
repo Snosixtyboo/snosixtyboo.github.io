@@ -1,6 +1,7 @@
 main:
-  - title: StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering
-    authors: Lukas Radl*, Michael Steiner*, Mathias Parger, Alexander Weinrauch, <strong>Bernhard Kerbl</strong>*, Markus Steinberger
+
+  - title: "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
+    authors: Lukas Radl*, Michael Steiner*, Mathias Parger, Alexander Weinrauch, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: ACM TOG
     conference: SIGGRAPH, 2024.
     image: ./assets/img/stp.gif
