@@ -16,7 +16,7 @@ main:
     authors: Johannes Unterguggenberger, Lukas Lipp, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Markus Schütz
     conference_short: EGPGV
     notes: 🏆 Best Paper Award
-    conference: Eurographics Symposium on Parallel Graphics and Visualization, 2024.
+    conference: The Eurographics Symposium on Parallel Graphics and Visualization, 2024.
     image: ./assets/img/parametric.png
 
   - title: Reducing the Memory Footprint of 3D Gaussian Splatting
@@ -121,7 +121,7 @@ main:
   - title: "Fast Multi-View Rendering for Real-Time Applications"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Markus Steinberger, Dieter Schmalstieg, Michael Wimmer
     conference_short: EGPGV
-    conference: Eurographics Symposium on Parallel Graphics and Visualization, 2020.
+    conference: The Eurographics Symposium on Parallel Graphics and Visualization, 2020.
     image: ./assets/img/multiview.png
 
   - title: "Stochastic Substitute Trees for Real-Time Global Illumination"
