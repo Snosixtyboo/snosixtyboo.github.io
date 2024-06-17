@@ -13,6 +13,7 @@ Together with my esteemed colleagues, our research has been honored with Best Pa
 I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**.
 
 ## News
+- **[Jun. 2024]** 1 paper accepted to EGSR '24
 - **[May 2024]** Congratulations to Johannes Unterguggenberger for Best Paper at EGPGV '24!
 - **[Apr. 2024]** 2 papers accepted to SIGGRAPH '24
 - **[Apr. 2024]** 1 paper accepted to I3D '24
