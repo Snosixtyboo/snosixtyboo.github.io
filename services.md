@@ -21,6 +21,7 @@ layout: homepage
 <ul style="margin:0 0 5px;">
   <li>Transactions on Graphics (TOG)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
   <li>IEEE Sensors</li>
   <li>Mathematics</li>
   <li>Computer Graphics Forum (CGF)</li>
