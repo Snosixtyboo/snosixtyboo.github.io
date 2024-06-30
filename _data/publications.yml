@@ -1,16 +1,17 @@
 main:
 
-  - title: "MatUp: Repurposing Image Upsamplers for SVBRDFs"
-    authors: Alban Gauthier, <strong>Bernhard Kerbl</strong>, Jérémy Levallois, Robin Faury, Jean-Marc Thiery, Tamy Boubekeur
-    conference_short: CGF
-    conference: Eurographics Symposium on Rendering, 2024.
-    image: ./assets/img/MatUp.png
-    
   - title: "Real-Time Decompression and Rasterization of Massive Point Clouds"
     authors: Rahul Goel, Markus Schütz, PJ Narayanan, <strong>Bernhard Kerbl</strong>
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2024.
     image: ./assets/img/pose2.jpg
+
+  - title: "MatUp: Repurposing Image Upsamplers for SVBRDFs"
+    authors: Alban Gauthier, <strong>Bernhard Kerbl</strong>, Jérémy Levallois, Robin Faury, Jean-Marc Thiery, Tamy Boubekeur
+    conference_short: CGF
+    conference: Eurographics Symposium on Rendering, 2024.
+    image: ./assets/img/MatUp.png
+   
 
   - title: "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
     authors: Lukas Radl*, Michael Steiner*, Mathias Parger, Alexander Weinrauch, <strong>Bernhard Kerbl</strong>, Markus Steinberger
