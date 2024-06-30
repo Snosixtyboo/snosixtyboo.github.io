@@ -8,7 +8,7 @@ main:
     
   - title: "Real-Time Decompression and Rasterization of Massive Point Clouds"
     authors: Rahul Goel, Markus Schütz, PJ Narayanan, <strong>Bernhard Kerbl</strong>
-    conference_short: CGF
+    conference_short: PACMCGIT
     conference: High-Performance Graphics, 2024.
     image: ./assets/img/pose2.jpg
 
