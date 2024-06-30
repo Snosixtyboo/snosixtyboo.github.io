@@ -1,8 +1,14 @@
 main:
 
+  - title: "MatUp: Repurposing Image Upsamplers for SVBRDFs"
+    authors: Alban Gauthier, <strong>Bernhard Kerbl</strong>, Jérémy Levallois, Robin Faury, Jean-Marc Thiery, Tamy Boubekeur
+    conference_short: CGF
+    conference: Eurographics Symposium on Rendering, 2024.
+    image: ./assets/img/MatUp.png
+    
   - title: "Real-Time Decompression and Rasterization of Massive Point Clouds"
     authors: Rahul Goel, Markus Schütz, PJ Narayanan, <strong>Bernhard Kerbl</strong>
-    conference_short: PACMCGIT
+    conference_short: CGF
     conference: High-Performance Graphics, 2024.
     image: ./assets/img/pose2.jpg
 
@@ -120,8 +126,8 @@ main:
 
   - title: "Rendering Point Clouds with Compute Shaders and Vertex Order Optimization"
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Michael Wimmer
-    conference_short: PACMCGIT
-    conference: High-Performance Graphics, 2021.
+    conference_short: CGF
+    conference: Eurographics Symposium on Rendering, 2021.
     image: ./assets/img/pc.png
 
   - title: "Fast Multi-View Rendering for Real-Time Applications"
