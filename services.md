@@ -4,6 +4,14 @@ layout: homepage
 
 ## Scientific Community Services
 
+<h4 style="margin:0 10px 0;">Program Committees</h4>
+
+<ul style="margin:0 0 5px;">
+<li>SIGGRAPH Asia ’24</li>
+<li>Foundations of Digital Games, FDG ’22 </li>
+<li>High-Performance Graphics, HPG ‘22</li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
