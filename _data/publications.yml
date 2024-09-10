@@ -1,7 +1,7 @@
 main:
 
   - title: "Taming 3DGS: High-Quality Radiance Fields with Limited Resources"
-    authors: Saswat Subhajyoti Mallick*, Rahul Goel*, <strong>Bernhard Kerbl</strong>, Francisco Vicente Carrasco, Markus Steinberger, Fernando de la Torre
+    authors: Saswat S. Mallick*, Rahul Goel*, <strong>Bernhard Kerbl</strong>, Francisco V. Carrasco, Markus Steinberger, Fernando de la Torre
     conference_short: SIGGRAPH Asia
     conference: SIGGRAPH Asia, 2024.
     image: ./assets/img/taming.png
