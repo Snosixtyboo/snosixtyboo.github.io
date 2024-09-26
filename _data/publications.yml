@@ -1,5 +1,10 @@
 main:
-
+  - title: "Fast and Robust 3D Gaussian Splatting for Virtual Reality"
+    authors: Xuechang Tu, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
+    conference_short: SIGGRAPH Asia Poster
+    conference: SIGGRAPH Asia (Posters), 2024.
+    image: ./assets/img/vr.png
+    
   - title: "Taming 3DGS: High-Quality Radiance Fields with Limited Resources"
     authors: Saswat S. Mallick*, Rahul Goel*, <strong>Bernhard Kerbl</strong>, Francisco V. Carrasco, Markus Steinberger, Fernando de la Torre
     conference_short: SIGGRAPH Asia
