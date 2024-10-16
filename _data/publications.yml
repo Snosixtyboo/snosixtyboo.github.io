@@ -170,7 +170,7 @@ main:
   - title: "From Ground to Space: Real-time Rendering of Procedural Planets at Arbitrary Altitudes"
     authors: Florian Michelic, Michael Kenzel, Karl Haubenwallner, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: I3D Poster
-    conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, Posters, 2019. 
+    conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (Posters), 2019. 
     notes: 🏆 Best Poster Award
     image: ./assets/img/planets.png
 
