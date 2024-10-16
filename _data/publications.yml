@@ -20,6 +20,7 @@ main:
   - title: "FastFlow: GPU Acceleration of Flow and Depression Routing for Landscape Simulation"
     authors: Aryamaan Jain, <strong>Bernhard Kerbl</strong>, James Gain, Brandon Finley, Guillaume Cordonnier
     conference_short: CGF
+    notes: 🏆 Best Paper Award
     conference: Pacific Graphics, 2024.  
     image: ./assets/img/flow.png
 
