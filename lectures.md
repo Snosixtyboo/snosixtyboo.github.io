@@ -9,12 +9,12 @@ layout: homepage
   <li>High-Speed Rendering for Point Clouds and Radiance Fields, Facebook Reality Labs, Invited</li>
   <li>3D Gaussian Splatting, 3DV '24, Tutorial</li>
   <li>Compute-based Rendering Across the Board, NCBR Ideas / MPII / VISUS / Loria, Invited</li>
-  <li>Teaching Vulkan, SIGGRAPH ’23, Birds of a Feather Talk, Vulkan: Forging Ahead.</li>
-  <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited.</li>
-  <li>🏆 Transitioning to Vulkan for Compute, Vulkanised ’23, Invited.</li>
-  <li>CUDA and Applications to Task-based Programming, Eurographics ’22, Tutorial.</li>
-  <li>Detailed Geometry for Cloud and Edge Real-Time Rendering, Cloud InnovWave ’21, Invited.</li>
-  <li>🏆 Priority-Based Task Management in a GPGPU Megakernel, CESCG ’12, Student Project.</li>
+  <li>Teaching Vulkan, SIGGRAPH ’23, Birds of a Feather Talk, Vulkan: Forging Ahead</li>
+  <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited</li>
+  <li>🏆 Transitioning to Vulkan for Compute, Vulkanised ’23, Invited</li>
+  <li>CUDA and Applications to Task-based Programming, Eurographics ’22, Tutorial</li>
+  <li>Detailed Geometry for Cloud and Edge Real-Time Rendering, Cloud InnovWave ’21, Invited</li>
+  <li>🏆 Priority-Based Task Management in a GPGPU Megakernel, CESCG ’12, Student Project</li>
 </ul>
 
 ## Recorded Lectures
