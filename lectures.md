@@ -5,6 +5,7 @@ layout: homepage
 ## Tutorials and Invited Talks
 
 <ul style="margin:0 0 20px;">
+  <li>Foundations and Recent Advances of 3D Gaussian Splatting, MIT, Invited</li>
   <li>High-Speed Rendering for Point Clouds and Radiance Fields, Facebook Reality Labs, Invited</li>
   <li>3D Gaussian Splatting, 3DV '24, Tutorial</li>
   <li>Compute-based Rendering Across the Board, NCBR Ideas / MPII / VISUS / Loria, Invited</li>
