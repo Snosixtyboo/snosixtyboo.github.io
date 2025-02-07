@@ -1,4 +1,10 @@
 main:
+  - title: "OMG: Opacity Matters in Material Modeling with Gaussian Splatting"
+    authors: Silong Yong, Venkata Nagarjun Pudureddiyur Manivannan, <strong>Bernhard Kerbl</strong>, Zifu Wan, Simon Stepputtis, Katia P. Sycara, Yaqi Xie
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    image: ./assets/img/prism.png
+
   - title: "Fast and Robust 3D Gaussian Splatting for Virtual Reality"
     authors: Xuechang Tu, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: SIGGRAPH Asia Poster
