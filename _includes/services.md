@@ -16,6 +16,9 @@
 <h4 style="margin:0 10px 0;">Program Committees</h4>
 
 <ul style="margin:0 0 5px;">
+<li>High-Performance Graphics, HPG ‘25</li>
+<li>SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D ‘25</li>
+<li>Foundations of Digital Games, FDG ’25</li>
 <li>SIGGRAPH Asia ’24</li>
 <li>Foundations of Digital Games, FDG ’22 </li>
 <li>High-Performance Graphics, HPG ‘22</li>
