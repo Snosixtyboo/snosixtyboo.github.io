@@ -11,7 +11,7 @@ My research focuses on real-time graphics, parallel processing, point-based rend
 I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**.
 
 ## News
-- **[Feb. 2025]** 1 paper accepted to EG '25, 1 to Springer Nature CS
+- **[Feb. 2025]** 1 paper accepted to EG '25, 1 to Springer Nature CS, 1 to I3D '25
 - **[Jan. 2025]** 1 paper accepted to ICLR '25
 - **[Aug. 2024]** 1 paper accepted to SIGGRAPH Asia '24, 2 papers to PG '24
 - **[Jun. 2024]** 1 paper accepted to HPG '24, 1 paper to EGSR '24
