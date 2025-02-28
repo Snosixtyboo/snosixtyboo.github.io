@@ -1,4 +1,10 @@
 main:
+  - title: "Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?"
+    authors: Adam Celarek, Georgios Kopanas, George Drettakis, Michael Wimmer, <strong>Bernhard Kerbl</strong>
+    conference_short: CGF
+    conference: Eurographics, 2025.
+    image: ./assets/img/does.jpg
+    
   - title: "OMG: Opacity Matters in Material Modeling with Gaussian Splatting"
     authors: Silong Yong, Venkata Nagarjun Pudureddiyur Manivannan, <strong>Bernhard Kerbl</strong>, Zifu Wan, Simon Stepputtis, Katia P. Sycara, Yaqi Xie
     conference_short: ICLR
