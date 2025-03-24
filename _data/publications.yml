@@ -1,4 +1,11 @@
 main:
+
+  - title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
+    authors: Xuechang Tu*, Michael Steiner*, Lukas Radl, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
+    conference_short: SIGGRAPH Asia Poster
+    conference: SIGGRAPH Asia (Posters), 2024.
+    image: ./assets/img/vr2.png
+
   - title: "Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?"
     authors: Adam Celarek, Georgios Kopanas, George Drettakis, Michael Wimmer, <strong>Bernhard Kerbl</strong>
     conference_short: CGF
