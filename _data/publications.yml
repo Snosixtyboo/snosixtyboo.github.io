@@ -1,7 +1,7 @@
 main:
 
   - title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
-    authors: Xuechang Tu*, Michael Steiner*, Lukas Radl, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
+    authors: Xuechang Tu*, Lukas Radl*, Michael Steiner, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: SIGGRAPH Asia Poster
     conference: SIGGRAPH Asia (Posters), 2024.
     image: ./assets/img/vr2.png
