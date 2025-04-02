@@ -1,5 +1,11 @@
 main:
 
+  - title: Automated Prioritization for Context-Aware Re-rendering in Editing
+    authors: Annalena Ulschmid, Katharina Krösl, Michael Wimmer, <strong>Bernhard Kerbl</strong>
+    conference_short: SNCS
+    conference: Springer Nature Computer Science, 2025.
+    image: ./assets/img/incremental.png
+
   - title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
     authors: Xuechang Tu*, Lukas Radl*, Michael Steiner, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: I3D
