@@ -7,7 +7,7 @@ main:
     image: ./assets/img/incremental.png
 
   - title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
-    authors: Xuechang Tu*, Lukas Radl*, Michael Steiner, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
+    authors: Xuechang Tu, Lukas Radl, Michael Steiner, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2025.
     image: ./assets/img/vr2.png
