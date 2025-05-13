@@ -20,6 +20,7 @@ layout: homepage
 
 <ul style="margin:0 0 5px;">
   <li>SIGGRAPH</li>
+  <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</li>
   <li>Eurographics (EG)</li>
   <li>Pacific Graphics (PG)</li>
   <li>High-Performance Graphics (HPG)</li>
