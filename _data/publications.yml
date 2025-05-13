@@ -6,7 +6,7 @@ main:
     conference: SIGGRAPH, 2025.
     image: ./assets/img/nvs.png
 
-  - title: "Echoes of the Coliseum: Towards 3D Live streaming of Sports Events"
+  - title: "Echoes of the Coliseum: Towards 3D Live Streaming of Sports Events"
     authors: Junkai Huang*, Saswat Subhajyoti Mallick*, Alejandro Amat, Marc Ruiz Olle, Albert Mosella-Montoro, <strong>Bernhard Kerbl</strong>, Francisco Vicente Carrasco, Fernando de la Torre
     conference_short: ACM TOG
     conference: SIGGRAPH, 2025.
