@@ -23,11 +23,10 @@ layout: homepage
 Below you can browse recordings from my previous invited talks, tutorials and university lectures.
 
 <div id="video-gallery">
-	<div class="video">
+<div class="video">
 	<iframe src="https://www.youtube.com/embed/eVofcft7URM" frameborder="0" allowfullscreen></iframe>
 </div>
-<div id="video-gallery">
-	<div class="video">
+<div class="video">
 	<iframe src="https://www.youtube.com/embed/Om5-ka_mTeE" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="video">
