@@ -25,6 +25,9 @@ Below you can browse recordings from my previous invited talks, tutorials and un
 
 <div id="video-gallery">
 <div class="video">
+	<iframe src="https://www.youtube.com/embed/cQXjIWlPj3g" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video">
 	<iframe src="https://www.youtube.com/embed/eVofcft7URM" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="video">
