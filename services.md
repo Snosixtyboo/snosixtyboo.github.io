@@ -7,6 +7,7 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Program Committees</h4>
 
 <ul style="margin:0 0 5px;">
+<li>Eurographics ’26</li>
 <li>SIGGRAPH Asia ’25</li>
 <li>High-Performance Graphics, HPG ‘25</li>
 <li>SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D ‘25</li>
