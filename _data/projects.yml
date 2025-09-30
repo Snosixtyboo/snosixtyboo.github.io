@@ -1,13 +1,13 @@
 main:
 
   - title: "Instant Visualization and Editing of Arbitrarily Large 3D Data Sets"
-    authors: <strong>Bernhard Kerbl</strong>, Markus Schütz
+    authors: <strong>Bernhard Kerbl (PI)</strong>, Markus Schütz
     conference_short: IVA3D
     conference: $920k funded <br> Vienna Science and Technology Fund (WWTF), 2026–2029.
     image: ./assets/img/iva3d.png
 
   - title: "Instant Visualization and Interaction for Large Point Clouds"
-    authors: Eduard Gröller, <strong>Bernhard Kerbl</strong>, Markus Schütz, Michael Wimmer
+    authors: Eduard Gröller, <strong>Bernhard Kerbl (Co-PI)</strong>, Markus Schütz, Michael Wimmer
     conference_short: IVILPC
     conference: $700k funded <br> Vienna Science and Technology Fund (WWTF), 2023–2026.
     image: ./assets/img/ivilpc.png
