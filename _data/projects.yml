@@ -4,7 +4,7 @@ main:
     authors: <strong>Bernhard Kerbl</strong>, Markus Schütz
     conference_short: (IVA3D)
     conference: $920k funded <br> Vienna Science and Technology Fund (WWTF), 2026–2029.
-    image: ./assets/img/ivilpc.png
+    image: ./assets/img/iva3d.png
 
   - title: "Instant Visualization and Interaction for Large Point Clouds"
     authors: Eduard Gröller, <strong>Bernhard Kerbl</strong>, Markus Schütz, Michael Wimmer
