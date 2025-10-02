@@ -4,25 +4,25 @@ main:
     authors: Andreas Meuleman, Ishaan Shah, Alexandre Lanvin, <strong>Bernhard Kerbl</strong>, George Drettakis
     conference_short: ACM TOG
     conference: SIGGRAPH, 2025.
-    image: ./assets/img/nvs.png
+    image: ./assets/img/nvs.jpg
 
   - title: "Echoes of the Coliseum: Towards 3D Live Streaming of Sports Events"
     authors: Junkai Huang*, Saswat Subhajyoti Mallick*, Alejandro Amat, Marc Ruiz Olle, Albert Mosella-Montoro, <strong>Bernhard Kerbl</strong>, Francisco Vicente Carrasco, Fernando de la Torre
     conference_short: ACM TOG
     conference: SIGGRAPH, 2025.
-    image: ./assets/img/coli.png
+    image: ./assets/img/coli.jpg
 
   - title: Automated Prioritization for Context-Aware Re-rendering in Editing
     authors: Annalena Ulschmid, Katharina Krösl, Michael Wimmer, <strong>Bernhard Kerbl</strong>
     conference_short: SNCS
     conference: Springer Nature Computer Science, 2025.
-    image: ./assets/img/incremental.png
+    image: ./assets/img/incremental.jpg
 
   - title: "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
     authors: Xuechang Tu, Lukas Radl, Michael Steiner, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2025.
-    image: ./assets/img/vr2.png
+    image: ./assets/img/vr2.jpg
 
   - title: "Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?"
     authors: Adam Celarek, Georgios Kopanas, George Drettakis, Michael Wimmer, <strong>Bernhard Kerbl</strong>
@@ -40,26 +40,26 @@ main:
     authors: Xuechang Tu, <strong>Bernhard Kerbl</strong>, Fernando de la Torre
     conference_short: SIGGRAPH Asia Poster
     conference: SIGGRAPH Asia (Posters), 2024.
-    image: ./assets/img/vr.png
+    image: ./assets/img/vr.jpg
     
   - title: "Taming 3DGS: High-Quality Radiance Fields with Limited Resources"
     authors: Saswat S. Mallick*, Rahul Goel*, <strong>Bernhard Kerbl</strong>, Francisco V. Carrasco, Markus Steinberger, Fernando de la Torre
     conference_short: SIGGRAPH Asia
     conference: SIGGRAPH Asia, 2024.
-    image: ./assets/img/taming.png
+    image: ./assets/img/taming.jpg
 
   - title: "Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field"
     authors: Chao Wang, Krzysztof Wolski, <strong>Bernhard Kerbl</strong>, Ana Serrano, Mojtaba Bemama, Karol Myszkowski, Hans-Peter Seidel, Thomas Leimkühler
     conference_short: CGF
     conference: Pacific Graphics, 2024.  
-    image: ./assets/img/cinematic.png
+    image: ./assets/img/cinematic.jpg
 
   - title: "FastFlow: GPU Acceleration of Flow and Depression Routing for Landscape Simulation"
     authors: Aryamaan Jain, <strong>Bernhard Kerbl</strong>, James Gain, Brandon Finley, Guillaume Cordonnier
     conference_short: CGF
     notes: 🏆 Best Paper Award
     conference: Pacific Graphics, 2024.  
-    image: ./assets/img/flow.png
+    image: ./assets/img/flow.jpg
 
   - title: "Real-Time Decompression and Rasterization of Massive Point Clouds"
     authors: Rahul Goel, Markus Schütz, PJ Narayanan, <strong>Bernhard Kerbl</strong>
@@ -71,7 +71,7 @@ main:
     authors: Alban Gauthier, <strong>Bernhard Kerbl</strong>, Jérémy Levallois, Robin Faury, Jean-Marc Thiery, Tamy Boubekeur
     conference_short: CGF
     conference: Eurographics Symposium on Rendering, 2024.
-    image: ./assets/img/MatUp.png
+    image: ./assets/img/MatUp.jpg
    
 
   - title: "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
@@ -91,26 +91,26 @@ main:
     conference_short: EGPGV
     notes: 🏆 Best Paper Award
     conference: The Eurographics Symposium on Parallel Graphics and Visualization, 2024.
-    image: ./assets/img/parametric.png
+    image: ./assets/img/parametric.jpg
 
   - title: Reducing the Memory Footprint of 3D Gaussian Splatting
     authors: Panagiotis Papantonakis, Georgios Kopanas, <strong>Bernhard Kerbl</strong>, Alexandre Lanvin, George Drettakis
     conference_short: PACMCGIT
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2024.
-    image: ./assets/img/comp.png
+    image: ./assets/img/comp.jpg
 
   - title: Real-Time Editing of Path-Traced Scenes with Prioritized Re-Rendering
     authors: Annalena Ulschmid, <strong>Bernhard Kerbl</strong>, Katharina Krösl, Michael Wimmer
     conference_short: GRAPP
     conference: International Conference on Computer Graphics Theory and Applications, 2024.
     notes: 🏆 Best Student Paper Award
-    image: ./assets/img/incremental.png
+    image: ./assets/img/incremental.jpg
 
   - title: GPU-Accelerated LOD Generation for Point Clouds
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Philip Klaus, Michael Wimmer
     conference_short: CGF
     conference: High-Performance Graphics, 2023.
-    image: ./assets/img/lod.png
+    image: ./assets/img/lod.jpg
 
   - title: 3D Gaussian Splatting for Real-Time Radiance Field Rendering
     authors: <strong>Bernhard Kerbl</strong>*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis
@@ -135,7 +135,7 @@ main:
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Michael Wimmer
     conference_short: "C&G"
     conference: Computers and Graphics, 2023.
-    image: ./assets/img/vulkan.png
+    image: ./assets/img/vulkan.jpg
 
   - title: "QuadStream: A Quad-Based Scene Streaming Architecture for Novel Viewpoint Reconstruction"
     authors: Jozef Hladky, Michael Stengel, Nicholas Vining, <strong>Bernhard Kerbl</strong>, Hans-Peter Seidel, Markus Steinberger
@@ -148,68 +148,68 @@ main:
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2022.
     notes: 🏆 Best Paper Award
-    image: ./assets/img/2billion.png
+    image: ./assets/img/2billion.jpg
 
   - title: "Training and Predicting Visual Error for Real-Time Applications"
     authors: Joao Liborio Cardoso, <strong>Bernhard Kerbl</strong>, Lei Yang, Yury Uralsky, Michael Wimmer
     conference_short: PACMCGIT
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2022.
-    image: ./assets/img/training.png
+    image: ./assets/img/training.jpg
 
   - title: "An Improved Triangle Encoding Scheme for Cached Tessellation"
     authors: <strong>Bernhard Kerbl</strong>, Linus Horváth, Daniel Cornel, Michael Wimmer
     conference_short: EG Short
     conference: Eurographics, Short Papers, 2022.
-    image: ./assets/img/encoding.png
+    image: ./assets/img/encoding.jpg
 
   - title: "Gaussian Mixture Convolution Networks"
     authors: Adam Celarek, Pedro Hermosilla, <strong>Bernhard Kerbl</strong>, Timo Ropinski, Michael Wimmer
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2022.
-    image: ./assets/img/gmcn.png
+    image: ./assets/img/gmcn.jpg
 
   - title: "CUDA and Applications to Task-based Programming"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Martin Winter, Markus Steinberger
     conference_short: EG Tutorial
     conference: Eurographics, Tutorials, 2022.
-    image: ./assets/img/cuda.png
+    image: ./assets/img/cuda.jpg
 
   - title: "On Provisioning Procedural Geometry Workloads on Edge Architectures"
     authors: Ilir Murturi, Chao Jia, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Schahram Dustdar, Christos Tsigkanos
     conference_short: WEBIST
     conference: International Conference on Web Information Systems and Technologies, 2021.
-    image: ./assets/img/procedural.png
+    image: ./assets/img/procedural.jpg
 
   - title: "Conservative Meshlet Bounds for Robust Culling of Skinned Meshes"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Jakob Pernsteiner, Michael Wimmer
     conference_short: CGF
     conference: Pacific Graphics, 2021.
-    image: ./assets/img/meshlet.png
+    image: ./assets/img/meshlet.jpg
 
   - title: "Rendering Point Clouds with Compute Shaders and Vertex Order Optimization"
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Michael Wimmer
     conference_short: CGF
     conference: Eurographics Symposium on Rendering, 2021.
-    image: ./assets/img/pc.png
+    image: ./assets/img/pc.jpg
 
   - title: "Fast Multi-View Rendering for Real-Time Applications"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Markus Steinberger, Dieter Schmalstieg, Michael Wimmer
     conference_short: EGPGV
     conference: The Eurographics Symposium on Parallel Graphics and Visualization, 2020.
-    image: ./assets/img/multiview.png
+    image: ./assets/img/multiview.jpg
 
   - title: "Stochastic Substitute Trees for Real-Time Global Illumination"
     authors: Wolfgang Tatzgern, Benedikt Mayr, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2020. 
-    image: ./assets/img/subtrees.png
+    image: ./assets/img/subtrees.jpg
 
   - title: "From Ground to Space: Real-time Rendering of Procedural Planets at Arbitrary Altitudes"
     authors: Florian Michelic, Michael Kenzel, Karl Haubenwallner, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: I3D Poster
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (Posters), 2019. 
     notes: 🏆 Best Poster Award
-    image: ./assets/img/planets.png
+    image: ./assets/img/planets.jpg
 
   - title: "Revisiting the Vertex Cache: Understanding and Optimizing Vertex Processing on the modern GPU"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Elvena Ivanchenko, Dieter Schmalstieg, Markus Steinberger
