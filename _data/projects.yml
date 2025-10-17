@@ -9,7 +9,7 @@ main:
   - title: "Data-driven Simulation and Rendering for Autonomous Robotic Colonoscopy"
     authors: Hang Yin, Melanie Ganz-Benjaminsen, <strong>Bernhard Kerbl (Collaborator)</strong>
     conference_short: DSRARC
-    conference: $60k equivalent donation <br> NVIDIA, 2025–2026.
+    conference: $60k equivalent hardware donation <br> NVIDIA, 2025–2026.
     image: ./assets/img/dsra.jpg
 
   - title: "Instant Visualization and Interaction for Large Point Clouds"
