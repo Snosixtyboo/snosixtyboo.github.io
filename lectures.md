@@ -5,6 +5,7 @@ layout: homepage
 ## Tutorials and Invited Talks
 
 <ul style="margin:0 0 20px;">
+  <li>Real-Time Radiance Fields and their Applications, COGS '25 (ICCV Workshop), Keynote</li>
   <li>🏆 3D Gaussian Splatting: Real-Time Radiance Fields and their Applications, ICBS '25, Invited</li>
   <li>Rendering and Geometry from 3D Gaussian Splatting, SGP '25, Graduate School</li>
   <li>Recent Advances and Future Developments for High-Speed Radiance Fields, CESCG '25, Keynote</li>
