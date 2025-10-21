@@ -11,10 +11,10 @@ My research focuses on real-time graphics, parallel processing, point-based rend
 I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**.
 
 ## News
+- **[Okt. 2025]** Keynote Talk at COGS (ICCV) '25
 - **[Jul. 2025]** "Frontiers of Science Award" in Beijing for 3D Gaussian Splatting
 - **[May 2025]** 2 papers accepted to SIGGRAPH '25
 - **[Apr. 2025]** Keynote Talk at CESCG '25
-- **[Feb. 2025]** 1 paper accepted to EG '25, 1 to Springer Nature CS, 1 to I3D '25
 
 ## Research Interests
 
