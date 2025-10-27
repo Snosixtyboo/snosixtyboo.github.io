@@ -1,5 +1,11 @@
 main:
 
+  - title: "The Impact and Outlook of 3D Gaussian Splatting"
+    authors: <strong>Bernhard Kerbl</strong>
+    conference_short: ICBS
+    conference: Frontiers of Science Awards for Math/TCIS/Phys, 2025.
+    image: ./assets/img/fsa.jpg
+
   - title: "On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images"
     authors: Andreas Meuleman, Ishaan Shah, Alexandre Lanvin, <strong>Bernhard Kerbl</strong>, George Drettakis
     conference_short: ACM TOG

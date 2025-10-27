@@ -57,7 +57,7 @@ layout: homepage
 
 
 
-<h2 id="publications" style="margin: 2px 0px 0px;">Peer-Reviewed Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 0px;">Full List of Publications</h2>
 &#42; indicates equal contribution
 
 <div class="publications">
