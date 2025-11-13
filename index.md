@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+## Open Positions
+
 **We are looking for 1 PhD student in the IVA3D project at TU Wien!** [Apply here](https://applications.cg.tuwien.ac.at/node/5
 
 ## About Me
