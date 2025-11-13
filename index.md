@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+We are looking for 1 PhD student in the IVA3D project at TU Wien! [Apply here](https://applications.cg.tuwien.ac.at/node/5
+
 ## About Me
 
 I am a Tenure-track Assistant Professor at the **University of Copenhagen** and a Principal Project Investigator associated with the **Vienna University of Technology (TU Wien)**. Before that, I was a Visiting Researcher at the **Robotics Institute, Carnegie Mellon University**, in the Human Sensing Lab under Fernando de La Torre. I obtained my PhD at **Graz University of Technology** in 2018. In 2019, I briefly joined **Epic Games** to work on **Unreal Engine 5's Nanite**. I started a postdoc at TU Wien the same year, followed by another in 2022 with **INRIA** in George Drettakis' GraphDeco group. 
