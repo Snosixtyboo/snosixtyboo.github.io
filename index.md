@@ -4,9 +4,9 @@ layout: homepage
 
 ## Open Positions
 
-**We are looking for 1 PhD student in the IVA3D project at TU Wien!** [Apply here](https://applications.cg.tuwien.ac.at/node/5)
+**Looking for 1 PhD student in the IVA3D project at TU Wien!** [Apply here](https://applications.cg.tuwien.ac.at/node/5)
 
-**We are looking for 1--2 Master students for projects/theses on neural upcycling of medical data in the Copenhagen area!** [More info here](https://ire4health.eu/)
+**Looking for 1--2 Master students for projects/theses on neural upcycling of medical data in Copenhagen!** [More info here](https://ire4health.eu/)
 
 ## About Me
 
