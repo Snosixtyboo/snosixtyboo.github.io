@@ -230,10 +230,6 @@ papertitle {
       width: 8.00em;
     }
 
-    .image.affiliation_logo {
-      border-radius: 100%;
-    }
-
       .image.affiliation_logo:before {
         display: none;
       }
@@ -247,7 +243,8 @@ papertitle {
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
-    #header .image.affiliation_logo {
+    .image.affiliation_logo {
+      border-radius: 100%;
       border: 10px solid lime !important;
       background: rgba(255, 0, 0, 1.0) !important;
       margin: 0 0 1em 0;
