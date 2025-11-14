@@ -228,11 +228,15 @@ papertitle {
       width: 8.00em;
     }
 
-      .image.affiliation:before {
+    .image.affiliation_logo {
+      border-radius: 0%;
+    }
+
+      .image.affiliation_logo:before {
         display: none;
       }
 
-      .image.affiliation img {
+      .image.affiliation_logo img {
         width: 65%;
         padding: 5%;
 	object-fit: contain;
@@ -241,7 +245,7 @@ papertitle {
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
-    #header .image.affiliation {
+    #header .image.affiliation_logo {
       background: rgba(255, 0, 0, 0.1);
       margin: 0 0 1em 0;
       width: 8.00em;
