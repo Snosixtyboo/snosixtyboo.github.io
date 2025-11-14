@@ -224,12 +224,13 @@ papertitle {
       }
 
     #header .image.avatar {
+      background: rgba(255, 0, 0, 0.1);
       margin: 0 0 1em 0;
       width: 8.00em;
     }
 
     .image.affiliation_logo {
-      border-radius: 0%;
+      border-radius: 100%;
     }
 
       .image.affiliation_logo:before {
