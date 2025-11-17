@@ -34,6 +34,7 @@ layout: homepage
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Nature Communications</li>
   <li>Transactions on Graphics (TOG)</li>
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
