@@ -1,5 +1,11 @@
 main:
 
+  - title: "Real-Time Rendering Methods with Adaptive Levels of Detail"
+    authors: Johannes Unterguggenberger, Lukas Lipp, Michael Wimmer, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Markus Schütz
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics, 2026.
+    image: ./assets/img/glyph.jpg
+
   - title: "The Impact and Outlook of 3D Gaussian Splatting"
     authors: <strong>Bernhard Kerbl</strong>
     conference_short: ICBS
