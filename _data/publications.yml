@@ -4,7 +4,7 @@ main:
     authors: Johannes Unterguggenberger, Lukas Lipp, Michael Wimmer, Markus Steinberger, <strong>Bernhard Kerbl</strong>, Markus Schütz
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics, 2026.
-    image: ./assets/img/glyph.jpg
+    image: ./assets/img/glyphs.jpg
 
   - title: "The Impact and Outlook of 3D Gaussian Splatting"
     authors: <strong>Bernhard Kerbl</strong>
