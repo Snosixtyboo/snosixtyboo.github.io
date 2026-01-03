@@ -38,6 +38,7 @@ layout: homepage
   <li>Transactions on Graphics (TOG)</li>
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
+  <li>IEEE Transactions on Image Processing (TIP)</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
   <li>IEEE Sensors</li>
   <li>Mathematics</li>
