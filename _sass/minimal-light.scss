@@ -294,10 +294,11 @@ h1 {
 }
 
 .iconline-icon{
-  width: 28px;          /* adjust */
-  height: 28px;         /* adjust */
-  flex: 0 0 28px;
-  margin-top: 0.15rem_rb; /* optional tweak; remove if not needed */
+  width: 10rem;          /* adjust */
+  height: auto;
+  flex: 0 0 10rem;
+  border-radius: 50%;
+  overflow: hidden;     /* this creates the crop */
 }
 
 .iconline-text{
