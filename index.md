@@ -4,12 +4,12 @@ layout: homepage
 
 ## Open Positions
 
-<div class="iconline">
-  <img class="iconline-icon" src="/assets/img/phd.png" alt="" aria-hidden="true">
-  <div class="iconline-text" markdown="1">
-    **1 PhD student** in the IVA3D project at TU Wien (co-supervised)! [Apply here](https://applications.cg.tuwien.ac.at/node/5)
-  </div>
-</div>
+{% include iconline.html icon="/assets/img/phd.png"
+   text="**Coding + coffee**, chasing results.
+
+- Bullet 1
+- Bullet 2"
+%}
 
 **1 PhD student** in the IVA3D project at TU Wien (co-supervised)! [Apply here](https://applications.cg.tuwien.ac.at/node/5)
 <br>

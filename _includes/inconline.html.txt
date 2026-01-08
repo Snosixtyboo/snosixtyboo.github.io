@@ -1,0 +1,6 @@
+<div class="iconline">
+  <img class="iconline-icon" src="{{ include.icon }}" alt="" aria-hidden="true">
+  <div class="iconline-text">
+    {{ include.text | markdownify }}
+  </div>
+</div>
