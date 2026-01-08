@@ -4,6 +4,13 @@ layout: homepage
 
 ## Open Positions
 
+<div class="iconline">
+  <img class="iconline-icon" src="/assets/img/phd.png" alt="" aria-hidden="true">
+  <div class="iconline-text">
+    **1 PhD student** in the IVA3D project at TU Wien (co-supervised)! [Apply here](https://applications.cg.tuwien.ac.at/node/5)
+  </div>
+</div>
+
 **1 PhD student** in the IVA3D project at TU Wien (co-supervised)! [Apply here](https://applications.cg.tuwien.ac.at/node/5)
 <br>
 **1--2 Master students** for projects/theses on neural upcycling of medical data! [More info here](https://ire4health.eu/)

@@ -286,6 +286,24 @@ h1 {
   font-size:28px;
 }
 
+.iconline{
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  margin: 0.6rem 0;
+}
+
+.iconline-icon{
+  width: 28px;          /* adjust */
+  height: 28px;         /* adjust */
+  flex: 0 0 28px;
+  margin-top: 0.15rem_rb; /* optional tweak; remove if not needed */
+}
+
+.iconline-text{
+  min-width: 0;         /* important for wrapping inside flex */
+}
+
 a {
   color:#39c;
   text-decoration:none;
