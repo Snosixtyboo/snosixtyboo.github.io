@@ -4,9 +4,7 @@ layout: homepage
 
 ## Open Positions
 
-{% include iconline.html icon="/assets/img/phd.png"
-   text="**1 PhD student** in the IVA3D project at TU Wien (co-supervised)!<br>[Apply here](https://applications.cg.tuwien.ac.at/node/5)"
-%}
+
 {% include iconline.html icon="/assets/img/msc.png"
    text="**1--2 Master students** for projects/theses on neural upcycling of medical data!<br>[More info here](https://ire4health.eu/)"
 %}
