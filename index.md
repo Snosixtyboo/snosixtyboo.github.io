@@ -5,7 +5,7 @@ layout: homepage
 ## Open Positions
 
 {% include iconline.html icon="/assets/img/postdoc.png"
-   text="**1 PostDoc (2 years)** to work on Real-Time Visual Computing and AI solutions!<br>[Contact me](mailto:beke@di.ku.dk)"
+   text="**1 PostDoc (up to 2 years)** to work on Real-Time Visual Computing and AI solutions!<br>[Contact me](mailto:beke@di.ku.dk)"
 %}
 
 {% include iconline.html icon="/assets/img/phd.png"
