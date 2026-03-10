@@ -4,6 +4,14 @@ layout: homepage
 
 ## Open Positions
 
+{% include iconline.html icon="/assets/img/postdoc.png"
+   text="**1 PostDoc (2 years)** to work on Real-Time Visual Computing and AI solutions!<br>[Contact me](mailto:beke@di.ku.dk)"
+%}
+
+{% include iconline.html icon="/assets/img/phd.png"
+   text="**1 PhD (3 years)** to work on Real-Time Visual Computing and AI solutions!<br>[Contact me](mailto:beke@di.ku.dk)"
+%}
+
 
 {% include iconline.html icon="/assets/img/msc.png"
    text="**1--2 Master students** for projects/theses on neural upcycling of medical data!<br>[More info here](https://ire4health.eu/)"
