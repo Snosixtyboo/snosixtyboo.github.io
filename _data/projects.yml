@@ -2,8 +2,8 @@ main:
 
   - title: "Real-Time Visual Computing and AI"
     authors: <strong>Bernhard Kerbl (PI)</strong>
-    conference_short: NNF Start Package
-    conference: $780k funded <br> Novo Nordisk Foundation (NNF), 2026–2030.
+    conference_short: REVCAI
+    conference: $780k funded <br> Novo Nordisk Foundation (NNF) Start Package, 2026–2030.
     image: ./assets/img/revcai.png
 
   - title: "Instant Visualization and Editing of Arbitrarily Large 3D Data Sets"
