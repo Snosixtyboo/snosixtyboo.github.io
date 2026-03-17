@@ -4,6 +4,14 @@ layout: homepage
 
 ## Scientific Community Services
 
+<h4 style="margin:0 10px 0;">Editing oles</h4>
+
+<ul style="margin:0 0 5px;">
+<li>Computer Graphics Forum (Associate Editor)</li>
+<li>Transactions on Visualization and Computer Graphics (Associate Editor)</li>
+</ul>
+
+
 <h4 style="margin:0 10px 0;">Program Committees</h4>
 
 <ul style="margin:0 0 5px;">
