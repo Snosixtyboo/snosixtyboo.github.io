@@ -27,10 +27,10 @@ My research focuses on real-time graphics, parallel processing, point-based rend
 I have lectured on the topics of GPU programming, real-time rendering, physically-based rendering, game physics and scientific working at **TU Wien**, **Graz University of Technology** and **FH Salzburg**.
 
 ## News
+- **[May 2026]** Elected as a Eurographics Junior Fellow
 - **[Mar. 2026]** The group on "Real-Time Visual Computing and AI" at UCPH funded by NNF
 - **[Nov. 2025]** Started as Assistant Professor in Copenhagen, 1 paper accepted to TVCG
 - **[Okt. 2025]** Keynote Talk at COGS (ICCV) '25
-- **[Jul. 2025]** "Frontiers of Science Award" in Beijing for 3D Gaussian Splatting
 
 ## Research Interests
 
