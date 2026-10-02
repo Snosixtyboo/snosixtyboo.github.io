@@ -1,7 +1,7 @@
 main:
 
   - title: "The Computational Confocal Microscope"
-    authors: <strong>Julius B. Kirkegaard (PI), Bernhard Kerbl (Co-PI)</strong>
+    authors: Julius B. Kirkegaard (PI), <strong>Bernhard Kerbl (Co-PI)</strong>
     conference_short: TCCM
     conference: $330k funded <br> Villum Foundation Experiment Grant, 2027–2029.
     image: ./assets/img/confocal.png
