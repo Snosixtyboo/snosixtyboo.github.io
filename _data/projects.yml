@@ -3,13 +3,13 @@ main:
   - title: "The Computational Confocal Microscope"
     authors: <strong>Julius B. Kirkegaard (PI), Bernhard Kerbl (Co-PI)</strong>
     conference_short: TCCM
-    conference: $330k funded <br> Villum Fonden, 2027–2029.
+    conference: $330k funded <br> Villum Foundation Experiment Grant, 2027–2029.
     image: ./assets/img/confocal.png
 
   - title: "Real-Time Visual Computing and AI"
     authors: <strong>Bernhard Kerbl (PI)</strong>
     conference_short: REVCAI
-    conference: $780k funded <br> Novo Nordisk Fonden (NNF) Start Package, 2026–2030.
+    conference: $780k funded <br> Novo Nordisk Foundation (NNF) Start Package, 2026–2030.
     image: ./assets/img/revcai.png
 
   - title: "Instant Visualization and Editing of Arbitrarily Large 3D Data Sets"
